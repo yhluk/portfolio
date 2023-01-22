@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Yurii Hlukhyi",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Student and Future Full Stack Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/yhluk/",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "facebook",
+          "url": "https://www.linkedin.com/in/yurii-hlukhyi/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
