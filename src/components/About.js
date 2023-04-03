@@ -4,6 +4,10 @@ import javascriptIcon from "@iconify/icons-logos/javascript";
 import reactIcon from "@iconify/icons-logos/react";
 import cssIcon from "@iconify/icons-logos/css-3";
 import htmlIcon from "@iconify/icons-logos/html-5";
+import nodeIcon from "@iconify/icons-logos/nodejs";
+import auth0Icon from "@iconify/icons-logos/auth0-icon";
+import mongoDBIcon from "@iconify/icons-logos/mongodb-icon";
+import bootIcon from "@iconify/icons-logos/bootstrap";
 
 
 class About extends Component {
@@ -46,6 +50,18 @@ class About extends Component {
                   />
                   <Icon
                     icon={javascriptIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                    <Icon
+                      icon={nodeIcon}
+                      style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    />
+                   <Icon
+                    icon={auth0Icon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={mongoDBIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
